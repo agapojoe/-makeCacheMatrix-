@@ -1,3 +1,4 @@
+### The inverse of x is calculated.
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function(y) {
