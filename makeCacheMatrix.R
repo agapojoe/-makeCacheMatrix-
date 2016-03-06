@@ -1,5 +1,5 @@
 ### The inverse of x is calculated.
-### Assume x is invertible.
+### I assume x is invertible
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
   set <- function(y) {
